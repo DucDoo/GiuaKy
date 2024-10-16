@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "212877237572",
+    "firebase_url": "https://curd-flutter-v2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "curd-flutter-v2",
+    "storage_bucket": "curd-flutter-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212877237572:android:5cb91e73e5ef06332a0b11",
+        "android_client_info": {
+          "package_name": "com.example.curd_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYq49-JjGjqBJJQnc1Wl4dEzqscPZa-kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
